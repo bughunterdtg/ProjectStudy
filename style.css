@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: purple;
+}
+.box {
+  background-image: linear-gradient(violet, pink);
+  width: 500px;
+  height: 500px;
+  padding: 5px;
+  margin: auto;
+}
+.login {
+  width: 250px;
+  height: 250px;
+  background-image: linear-gradient(pink, violet);
+  text-align: center;
+  margin: 120px;
+  padding: 5px;
+}
+.login > h5 {
+  color: purple;
+}
